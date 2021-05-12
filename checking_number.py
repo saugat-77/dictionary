@@ -16,3 +16,12 @@ for i in range (len(message)):
     if phone_number(chunk):
 #        if (chunk.is_integer()):
         print('the number is: ' +chunk)
+        
+#this can also be donw by using regular expression
+import re
+
+message=input('enter message along with your phone number')
+
+phoneNumRegex = re.compile(r'98\d\d\d\d\d\d\d\d')
+mo = phoneNumRegex.search(message)
+print('Phone number found: ' + mo.group())
