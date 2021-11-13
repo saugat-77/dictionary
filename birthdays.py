@@ -1,5 +1,5 @@
 birthdays={'anita':'shrawn 28','simran':'magh 1','rakshya':'march 1',
-            'preethuja':'march 4','shreya':'bhadra 4','sumaly':'december 28','namuna':'shrawn 31', 'vedisha':'bhadra 22', 'sushan-thapa':'mangsir 13', 'goli':'falgun 10', 'rizuta':'falgun 4'
+            'preethuja':'march 4','shreya':'bhadra 24','sumaly':'december 28','namuna':'shrawn 31', 'vedisha':'bhadra 22', 'sushan-thapa':'mangsir 13', 'goli':'falgun 10', 'rizuta':'falgun 4'
 }	
 
 while True:
